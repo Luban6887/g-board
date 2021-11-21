@@ -1,0 +1,18 @@
+camera = 0 ;
+accuracy = 0.5 ;
+
+
+NOTE
+---------
+# camera
+    default camera is 0
+    if you are using secondery camera then change the value of 0(zero) to 1(one)
+    example ---->  camera = 1 ;
+
+#accuracy
+    accuracy is your hand detection accuracy
+    i like 0.8 accuracy of my camera
+    you can change it 0.1 to 0.9
+    0.1 is low accuracy and 0.9 is higher accuracy
+    accuracy will depend on your camera
+    example ----> accuracy = 0.5 ;
